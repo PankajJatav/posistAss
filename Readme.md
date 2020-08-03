@@ -33,5 +33,9 @@ You can edit default configuration in config folder.
 - Unit testing Using Mocha.
 - Update ReadMe and Expose API end points.
 
+<<<<<<< HEAD
 
 
+=======
+Swathi is testing
+>>>>>>> changed redme file
